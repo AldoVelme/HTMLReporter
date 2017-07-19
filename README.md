@@ -1,0 +1,9 @@
+# HTMLReporter
+# Reporter UNitTest Python
+
+GIT HTMLREPORTER TRABAJADO EN JS PYTHON Y MUCHA IMAGINATION :) 
+
+POR CIERTO..... SI QUIERES PLAGIAR ESTO......  :) AUN FALTA TODOS LOS .JS 
+
+
+         <<<<<<<<<<<<<<< GOOD LUCK MOTHER FUCKER >>>>>>>>>>>>>>
