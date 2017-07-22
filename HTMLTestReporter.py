@@ -4,7 +4,7 @@ import sys
 import unittest
 from xml.sax import saxutils
 
-__author__ = "AVELAZCX WWID 11610958  aldo.alfonsox.velasco.meza@intel.com"
+__author__ = "AVELAZCX WWID 11610958  aldo.alfonsox.velasco.meza@xxxx.com"
 __version__ = "2.0"
 
 
@@ -84,7 +84,7 @@ class TemplateMixin(object):
         3: 'SKIP',
     }
 
-    DEFAULT_TITLE = 'UNITE AUTOMATION TEAM'
+    DEFAULT_TITLE = 'UXXX AUTOMATION TEAM'
     DEFAULT_DESCRIPTION = 'This is a simple description. And it has two phrases.'
 
     # ------------------------------------------------------------------- #
